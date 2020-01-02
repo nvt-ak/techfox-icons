@@ -21,12 +21,12 @@ const Male = (props) => {
   );
 };
 
-MapPin.propTypes = {
+Male.propTypes = {
   color: PropTypes.string,
   size: PropTypes.oneOfType([PropTypes.string, PropTypes.number]),
 };
 
-MapPin.defaultProps = {
+Male.defaultProps = {
   color: 'currentColor',
   size: '24',
 };

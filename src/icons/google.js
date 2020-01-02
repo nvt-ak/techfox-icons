@@ -21,12 +21,12 @@ const Google = (props) => {
   );
 };
 
-MapPin.propTypes = {
+Google.propTypes = {
   color: PropTypes.string,
   size: PropTypes.oneOfType([PropTypes.string, PropTypes.number]),
 };
 
-MapPin.defaultProps = {
+Google.defaultProps = {
   color: 'currentColor',
   size: '24',
 };
