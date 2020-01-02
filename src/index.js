@@ -278,3 +278,6 @@ export { default as ZapOff } from './icons/zap-off';
 export { default as Zap } from './icons/zap';
 export { default as ZoomIn } from './icons/zoom-in';
 export { default as ZoomOut } from './icons/zoom-out';
+export { default as Edit4 } from './icons/edit-4';
+export { default as Chat } from './icons/chat';
+export { default as ImagePlaceHolder } from './icons/image-placeholder';

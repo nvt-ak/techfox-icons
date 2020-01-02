@@ -1,6 +1,6 @@
 {
-  "name": "react-feather",
-  "version": "2.0.3",
+  "name": "techfox-icons",
+  "version": "0.0.4-rc.1",
   "description": "React component for Feather icons",
   "main": "build/index.js",
   "module": "dist/index.js",
@@ -8,7 +8,6 @@
   "typings": "dist/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "compile": "rm -rf src/icons && node bin/build.js",
     "build:bundle": "rm -rf build && rollup --config rollup.config.js",
     "build:es": "rm -rf dist && babel src --out-dir dist --copy-files",
     "build": "concurrently \"npm:build:*\""
@@ -19,7 +18,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/feathericons/react-feather.git"
+    "url": "git+https://github.com/john-techfox/techfox-icons.git"
   },
   "keywords": [
     "react",
@@ -32,9 +31,9 @@
   "author": "Carmelo Pullara",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/feathericons/react-feather/issues"
+    "url": "https://github.com/john-techfox/techfox-icons/issues"
   },
-  "homepage": "https://github.com/feathericons/react-feather#readme",
+  "homepage": "https://github.com/john-techfox/techfox-icons#readme",
   "devDependencies": {
     "@babel/cli": "^7.4.4",
     "@babel/core": "^7.4.5",

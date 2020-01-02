@@ -287,3 +287,6 @@ export const ZapOff: Icon;
 export const Zap: Icon;
 export const ZoomIn: Icon;
 export const ZoomOut: Icon;
+export const Edit4: Icon;
+export const Chat: Icon;
+export const ImagePlaceHolder: Icon;
