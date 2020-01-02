@@ -281,3 +281,6 @@ export { default as ZoomOut } from './icons/zoom-out';
 export { default as Edit4 } from './icons/edit-4';
 export { default as Chat } from './icons/chat';
 export { default as ImagePlaceHolder } from './icons/image-placeholder';
+export { default as Male } from './icons/male';
+export { default as Female } from './icons/female';
+export { default as Google } from './icons/google';
