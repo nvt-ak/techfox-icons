@@ -290,3 +290,8 @@ export const ZoomOut: Icon;
 export const Edit4: Icon;
 export const Chat: Icon;
 export const ImagePlaceHolder: Icon;
+export const Male: Icon;
+export const Female: Icon;
+export const Google: Icon;
+
+
