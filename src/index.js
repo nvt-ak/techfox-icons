@@ -284,3 +284,4 @@ export { default as ImagePlaceHolder } from './icons/image-placeholder';
 export { default as Male } from './icons/male';
 export { default as Female } from './icons/female';
 export { default as Google } from './icons/google';
+export { default as Trash3 } from './icons/trash-3';
